@@ -1,0 +1,3 @@
+First create d,y sql data base and import this node_api.sql
+and after that
+ in config folder do the changes of the database configuration
